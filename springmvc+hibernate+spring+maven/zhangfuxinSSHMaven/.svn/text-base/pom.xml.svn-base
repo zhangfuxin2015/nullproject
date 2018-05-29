@@ -1,0 +1,107 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>zhangfuxin</groupId>
+  <artifactId>zhangfuxinSSHMaven</artifactId>
+  <packaging>war</packaging>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>zhangfuxinSSHMaven Maven Webapp</name>
+  <url>http://maven.apache.org</url>
+    <properties>
+       
+	  <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding> 
+	  <finalName>zhangfuxin</finalName> 
+
+    </properties>
+  <dependencies>
+     <!-- expectj -->  
+        <dependency>  
+            <groupId>org.springframework</groupId>  
+            <artifactId>spring-aspects</artifactId>  
+            <version>4.0.4.RELEASE</version>  
+        </dependency>  
+        <!-- junit -->  
+        <dependency>  
+            <groupId>junit</groupId>  
+            <artifactId>junit</artifactId>  
+            <version>4.11</version>  
+            <scope>test</scope>  
+        </dependency>  
+        <!-- spring -->  
+        <dependency>  
+            <groupId>org.springframework</groupId>  
+            <artifactId>spring-context</artifactId>  
+            <version>4.1.0.RELEASE</version>  
+        </dependency>  
+        <dependency>  
+            <groupId>org.springframework.ws</groupId>  
+            <artifactId>spring-ws-core</artifactId>  
+            <version>2.2.0.RELEASE</version>  
+        </dependency>  
+        <dependency>  
+            <groupId>org.springframework</groupId>  
+            <artifactId>spring-orm</artifactId>  
+            <version>4.1.1.RELEASE</version>  
+        </dependency>  
+        <!-- hibernate -->  
+        <dependency>  
+            <groupId>org.hibernate</groupId>  
+            <artifactId>hibernate-core</artifactId>  
+            <version>4.3.6.Final</version>  
+        </dependency>  
+        <!-- dbcp -->  
+        <dependency>  
+            <groupId>commons-dbcp</groupId>  
+            <artifactId>commons-dbcp</artifactId>  
+            <version>1.4</version>  
+        </dependency>  
+        <!-- MYSQL -->  
+        <dependency>  
+            <groupId>mysql</groupId>  
+            <artifactId>mysql-connector-java</artifactId>  
+            <version>5.1.18</version>  
+        </dependency>
+        <!-- javax.servlet.http.HttpServletRequest 用的jar -->  
+    	<dependency>
+	    	 <groupId>javax.servlet</groupId>
+	     	<artifactId>servlet-api</artifactId>
+	     	<version>2.5</version>
+	    	 <scope>provided</scope>
+  		 </dependency>
+  		 <!-- 与少帅交互json -->
+  		 <dependency>
+			<groupId>org.json</groupId>
+			<artifactId>json</artifactId>
+			<version>20140107</version>
+		 </dependency>
+		 <!--http远程调用-->
+		<dependency>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpclient</artifactId>
+			<version>4.5.1</version>
+		</dependency>
+		<!-- json遍历 -->
+		<dependency>
+			<groupId>com.google.code.gson</groupId>
+			<artifactId>gson</artifactId>
+			<version>2.2.2</version>
+		</dependency>
+		<!-- springmvc ajax 不乱码 -->
+  	    <dependency>
+            <groupId>org.codehaus.jackson</groupId>
+            <artifactId>jackson-mapper-asl</artifactId>
+            <version>1.9.13</version>
+        </dependency>
+ 		<dependency>
+	<groupId>org.codehaus.jackson</groupId>
+	<artifactId>jackson-mapper-asl</artifactId>
+	<version>1.9.13</version>
+</dependency>
+ 		
+		
+  </dependencies>
+  <build>
+    <finalName>zhangfuxin</finalName> 
+    
+  </build>
+</project>

@@ -1,0 +1,189 @@
+10
+
+dir
+0
+http://192.168.1.140:18080/svn/project/trunk/wangboPort/zhangfuxinSSHMaven/target/zhangfuxin/js/locale
+http://192.168.1.140:18080/svn/project
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+01320770-29af-e541-95fa-17529582b635
+
+easyui-lang-af.js
+file
+
+
+
+add
+
+easyui-lang-am.js
+file
+
+
+
+add
+
+easyui-lang-ar.js
+file
+
+
+
+add
+
+easyui-lang-bg.js
+file
+
+
+
+add
+
+easyui-lang-ca.js
+file
+
+
+
+add
+
+easyui-lang-cs.js
+file
+
+
+
+add
+
+easyui-lang-cz.js
+file
+
+
+
+add
+
+easyui-lang-da.js
+file
+
+
+
+add
+
+easyui-lang-de.js
+file
+
+
+
+add
+
+easyui-lang-el.js
+file
+
+
+
+add
+
+easyui-lang-en.js
+file
+
+
+
+add
+
+easyui-lang-es.js
+file
+
+
+
+add
+
+easyui-lang-fr.js
+file
+
+
+
+add
+
+easyui-lang-it.js
+file
+
+
+
+add
+
+easyui-lang-jp.js
+file
+
+
+
+add
+
+easyui-lang-nl.js
+file
+
+
+
+add
+
+easyui-lang-pl.js
+file
+
+
+
+add
+
+easyui-lang-pt_BR.js
+file
+
+
+
+add
+
+easyui-lang-ru.js
+file
+
+
+
+add
+
+easyui-lang-sv_SE.js
+file
+
+
+
+add
+
+easyui-lang-tr.js
+file
+
+
+
+add
+
+easyui-lang-zh_CN.js
+file
+
+
+
+add
+
+easyui-lang-zh_TW.js
+file
+
+
+
+add
+

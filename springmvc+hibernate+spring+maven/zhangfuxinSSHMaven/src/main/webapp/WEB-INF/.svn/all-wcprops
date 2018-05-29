@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/project/!svn/ver/1075/trunk/wangboPort/zhangfuxinSSHMaven/src/main/webapp/WEB-INF
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/project/!svn/ver/1127/trunk/wangboPort/zhangfuxinSSHMaven/src/main/webapp/WEB-INF/applicationContext.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/project/!svn/ver/1075/trunk/wangboPort/zhangfuxinSSHMaven/src/main/webapp/WEB-INF/web.xml
+END
+springmvc-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/project/!svn/ver/1075/trunk/wangboPort/zhangfuxinSSHMaven/src/main/webapp/WEB-INF/springmvc-servlet.xml
+END

@@ -1,0 +1,105 @@
+10
+
+dir
+0
+http://192.168.1.140:18080/svn/project/trunk/wangboPort/zhangfuxinSSHMaven/target/zhangfuxin/js/video-js/lang
+http://192.168.1.140:18080/svn/project
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+01320770-29af-e541-95fa-17529582b635
+
+de.js
+file
+
+
+
+add
+
+es.js
+file
+
+
+
+add
+
+fr.js
+file
+
+
+
+add
+
+it.js
+file
+
+
+
+add
+
+ja.js
+file
+
+
+
+add
+
+ko.js
+file
+
+
+
+add
+
+nl.js
+file
+
+
+
+add
+
+pt-BR.js
+file
+
+
+
+add
+
+ru.js
+file
+
+
+
+add
+
+uk.js
+file
+
+
+
+add
+
+zh.js
+file
+
+
+
+add
+

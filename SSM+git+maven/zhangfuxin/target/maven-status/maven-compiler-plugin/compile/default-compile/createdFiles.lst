@@ -1,0 +1,5 @@
+cn\springmvc\service\impl\UserServiceImpl.class
+cn\springmvc\controller\UserComtroller.class
+cn\springmvc\service\UserService.class
+cn\springmvc\model\User.class
+cn\springmvc\dao\UserDAO.class
